@@ -1,2 +1,2 @@
-# C-33-verbose-octo-guacamole
-verbose-octo-guacamole
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
